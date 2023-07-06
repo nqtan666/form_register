@@ -4,7 +4,7 @@ import { useState } from 'react'
 import Register from './Pages/Register';
 function App() {
   return (
-    <div className='container'>
+    <div className='container '>
       <Register/>
     </div>
   )
